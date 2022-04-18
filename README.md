@@ -1,5 +1,6 @@
 # branches
-for testing out branches changes in the github terraform provider
+for testing out branches changes in the github terraform provider:
+https://github.com/integrations/terraform-provider-github/pull/1117
 
 goal of this repo is to show two different ways to obtain the branches of a repository
 
